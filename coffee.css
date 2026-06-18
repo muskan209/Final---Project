@@ -1,0 +1,222 @@
+body{
+    background-color: black;
+}
+
+a{
+   text-decoration: none;
+   color: white;
+}
+.main8{
+    background-image: url("coffee.jpg");
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: block;
+    opacity: 0.9;
+    padding-left: 30px;
+  
+    
+    
+    
+}
+.amet{
+
+color: grey;
+width:40% ;
+margin-left: 30px;
+}
+ul{
+    list-style:none ;
+    display: flex;
+    background-color: black;
+    color: white;
+    margin-left: 10px;
+  
+
+}
+
+.do1{
+    margin-left: 20px;
+    font-size: 25px;
+    margin-top:30px ;
+
+}
+.do{
+margin-left: 20px;
+
+}
+.coffee{
+    color: white;
+    font-family: sans-serif;
+    width: 40%;
+    margin-left: 40px;
+    font-size: 45px;
+   
+}
+.lorem{
+    color:grey;
+    width: 35%;
+    margin-left: 30px;
+    font-size: 15px;
+    font-family: sans-serif;
+
+}
+.get{
+    margin-left: 90px;
+    margin-top: 20px;
+    width: 120px;
+    padding: 5px;
+    font-size: 15px;
+    background-color: lightsalmon;
+    border: solid;
+    border-color: beige;
+    color: white;
+   transition: width 2s;
+}
+.get:hover{
+   width: 100px;
+}
+ .main2{
+    display: flex;
+    margin-left: 200px;
+    border: 3px solid grey;
+    width: 70%;
+    padding: 20px;
+   
+    
+ }
+ .about{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 60px;
+ }
+ 
+ .get2{
+    margin-left: 40px;
+ }
+ .dolor{
+    color: white;
+    width: 100%;
+ }
+ .sit{
+    width: 60%;
+    color: white;
+ }
+ .learn{
+    padding: 5px;
+    width: 150px;
+    
+    background-color: lightsalmon;
+    color: white;
+    transition: width 1s;
+ }
+ .learn:hover{
+   width: 100px;
+ }
+ .our{
+    color: white;
+    text-align: center;
+    font-size: 60px;
+    font-family: sans-serif;
+ }
+ .main5{
+    display: flex;
+    margin-left: 170px;
+ }
+ .hlo{
+    color: white;
+    border: 3px solid grey;
+    width: 25%;
+    height: 300px;
+    margin-left: 30px;
+ }
+ .hlo:hover{
+   background-color: white;
+   color: black;
+ }
+.tasty{
+   font-size: 25px;
+   text-align: center;
+   margin-top: 20px;
+}
+.nine{
+   font-size: 25px;
+   margin-left: 90px;
+}
+.ten{
+   font-size: 25px;
+   margin-left: 20px;
+   text-decoration: line-through;
+   color: grey;
+}
+.cart{
+   text-align: center;
+   margin-left: 110px;
+   margin-top: 10px;
+   padding: 2px;
+   width: 35%;
+   background-color: lightsalmon;
+   color: white;
+}
+.main7{
+   display: flex;
+    margin-left: 170px;
+    margin-top: 30px;
+}
+.main9{
+   margin-top: 50px;
+}
+.main10{
+   display: flex;
+   margin-left: 180px;
+}
+.hlo1{
+   color: white;
+    border: 3px solid grey;
+    width: 25%;
+    height: 400px;
+    margin-left: 30px; 
+    
+}
+.hlo1:hover{
+   background-color: white;
+   color: black;
+}
+.main11{
+   margin-top: 60px;
+   width: 100%;
+}
+.main12{
+   display: flex;
+   width: 100%;
+
+}
+.hlo2{
+   color: white;
+    border: 3px solid grey;
+    width: 45%;
+    height: 440px;
+    margin-left: 20px; 
+    
+}
+.contact{
+   width: 80%;
+   display: flex;
+   border: 3px solid  rgb(0, 0, 9);
+   height: 61vh;
+   margin-left: 150px;
+   margin-top: 40px;
+   background-color: rgb(0, 0, 9);
+}
+.contact1{
+   width: 50%;
+   
+}
+
+.in1{
+   margin-left: 30px;
+   margin-top: 30px;
+   
+
+}
